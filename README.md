@@ -26,9 +26,9 @@ README.md
 Open the file and read
 
 ## Additional Practice
-**Bold** text
-*Italics* text
-~~Strikethrough~~ text
-***Bold and Italics*** text
+**Bold** text  
+*Italics* text  
+~~Strikethrough~~ text  
+***Bold and Italics*** text  
 
 
