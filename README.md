@@ -32,5 +32,3 @@ Open the file and read
 ***Bold and Italics*** text
 
 
-## Additional Practice
-
